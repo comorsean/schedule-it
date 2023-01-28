@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+
+install dependencies
+
+start weberver
+
+ uvicorn main:app -reload
